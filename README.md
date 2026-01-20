@@ -4,6 +4,7 @@ An AI-powered IRCTC-like assistant that helps users plan their railway journey e
 
 This project demonstrates agentic AI thinking, real-world system design, and user-centric decision automation inspired by IRCTC, ixigo, and MakeMyTrip.
 
+Try it Live: https://ekygxatzbtl6jqkks6zu2a.streamlit.app/
 ---
 
 ## 🔥 Key Features
